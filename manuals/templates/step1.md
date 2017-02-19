@@ -2,7 +2,9 @@
 
 Both [Meteor](meteor.com) and [Ionic](ionicframework.com) took their platform to the next level in tooling.
 Both provide CLI interface instead of bringing bunch of dependencies and configure build tools.
-There are also differences between those tools. in this post we will focus on the `Meteor` CLI.
+There are also differences between those tools. in this tutorial we will focus on the `Meteor` CLI.
+
+> If you are interested in the Angular CLI, the steps needed to use it with Meteor are almost indentical to the steps required by the Ionic CLI
 
 Start by installing `Meteor` if you haven't already (See [reference](https://www.meteor.com/install)).
 
