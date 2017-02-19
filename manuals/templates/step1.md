@@ -1,3 +1,5 @@
+> If you got directly into here, please read the whole [intro section](/tutorials/whatsapp2-tutorial) explaining to goals for this tutorial and project.
+
 Both [Meteor](meteor.com) and [Ionic](ionicframework.com) took their platform to the next level in tooling.
 Both provide CLI interface instead of bringing bunch of dependencies and configure build tools.
 There are also differences between those tools. in this post we will focus on the `Meteor` CLI.
